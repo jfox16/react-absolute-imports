@@ -2,7 +2,7 @@
 Some code to add absolute imports to react. Mostly for my own reference.
 
 
-In ```jsconfig.json```:
+```jsconfig.json```
 ```json
 {
   "compilerOptions": {
@@ -16,7 +16,7 @@ In ```jsconfig.json```:
 }
 ```
 
-In ```.env```:
+```.env```
 ```
 NODE_PATH=src/
 ```
