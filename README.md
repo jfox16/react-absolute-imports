@@ -1,5 +1,5 @@
-# react-absolute-imports
-Some code to add absolute imports to react. Mostly for my own reference.
+# How to add absolute imports to React
+Create ```jsconfig.json``` and ``.env``` in your base directory, and copy-paste this code in.
 
 
 ```jsconfig.json```
