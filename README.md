@@ -2,7 +2,7 @@
 Create files called ```jsconfig.json``` and ```.env``` in your base directory, then copy-paste this code in.
 
 
-```jsconfig.json```
+In ```jsconfig.json```:
 ```json
 {
   "compilerOptions": {
@@ -16,7 +16,7 @@ Create files called ```jsconfig.json``` and ```.env``` in your base directory, t
 }
 ```
 
-```.env```
+in ```.env```:
 ```
 NODE_PATH=src/
 ```
