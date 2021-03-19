@@ -16,7 +16,7 @@ In ```jsconfig.json```:
 }
 ```
 
-in ```.env```:
+In ```.env```:
 ```
 NODE_PATH=src/
 ```
