@@ -23,7 +23,9 @@ In ```.env```:
 NODE_PATH=src/
 ```
 
-## Node Testing launch.json
+## Testing in VSCode with Nodemon
+
+Paste this into launch.json
 ```
 {
     "version": "0.2.0",
