@@ -1,5 +1,17 @@
 # Useful JS Stuff
 
+## Prettier
+.prettierrc.json
+```
+{
+	"trailingComma": "es5",
+	"tabWidth": 2,
+	"semi": true,
+	"singleQuote": true
+}
+
+```
+
 ## Absolute Imports
 Create files called ```jsconfig.json``` and ```.env``` in your base directory, then copy-paste this code in.
 
