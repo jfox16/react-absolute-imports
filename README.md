@@ -2,7 +2,7 @@
 
 ## Prettier
 .prettierrc.json
-```
+```json
 {
 	"trailingComma": "es5",
 	"tabWidth": 2,
