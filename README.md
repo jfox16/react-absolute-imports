@@ -1,22 +1,20 @@
 # Useful JS Stuff
 
 ## Prettier
-.prettierrc.json
+`./.prettierrc.json`
 ```json
 {
-	"trailingComma": "es5",
+	"trailingComma": "none",
 	"tabWidth": 2,
-	"semi": true,
+	"semi": false,
 	"singleQuote": true
 }
 
 ```
 
 ## Absolute Imports
-Create files called ```jsconfig.json``` and ```.env``` in your base directory, then copy-paste this code in.
 
-
-In ```jsconfig.json```:
+`./jsconfig.json`
 ```json
 {
   "compilerOptions": {
@@ -30,7 +28,7 @@ In ```jsconfig.json```:
 }
 ```
 
-In ```.env```:
+`./.env`
 ```
 NODE_PATH=src/
 ```
